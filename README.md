@@ -15,10 +15,13 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 5. The administrator after successful confirmation, initiates the process to generate the
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
-### UML DIAGRAMS:
-
-
-
+# UML DIAGRAMS:
+## USECASE DIAGRAM:
+## CLASS DIAGRAM:
+## ACTIVITY DIAGRAM:
+## PACKAGE DIAGRAM:
+## SEQUENCE DIAGRAM:
+## COMMUNICATION DIAGRAM:
 ### RESULT:
 Thus the project to develop Exam Registration system was developed using Star UML
 Software is done successfully.
