@@ -17,11 +17,24 @@ hall tickets for the applicants. After successful generation of hall tickets, th
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 # UML DIAGRAMS:
 ## USECASE DIAGRAM:
+<img width="1063" height="837" alt="image" src="https://github.com/user-attachments/assets/4c981b7f-fa4c-49db-ba64-1a397d23afa2" />
+
 ## CLASS DIAGRAM:
+<img width="871" height="785" alt="image" src="https://github.com/user-attachments/assets/1e94b07b-97c3-4541-b51f-14af6154499d" />
+
 ## ACTIVITY DIAGRAM:
+<img width="672" height="850" alt="image" src="https://github.com/user-attachments/assets/a4c0c715-89f3-43ec-b0d8-583a2051bc5a" />
+
 ## PACKAGE DIAGRAM:
+<img width="1004" height="676" alt="image" src="https://github.com/user-attachments/assets/f1f5986b-e1e0-42d2-88ff-9b7b5a163a89" />
+
 ## SEQUENCE DIAGRAM:
+<img width="1008" height="820" alt="image" src="https://github.com/user-attachments/assets/ae5505eb-f812-44ff-82d2-c877d9c561ad" />
+
 ## COMMUNICATION DIAGRAM:
+<img width="959" height="590" alt="image" src="https://github.com/user-attachments/assets/bf6979a3-1702-4fed-b9c1-24a5ddddc360" />
+
+
 ### RESULT:
 Thus the project to develop Exam Registration system was developed using Star UML
 Software is done successfully.
